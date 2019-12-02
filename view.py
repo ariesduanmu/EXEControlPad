@@ -15,7 +15,7 @@ from utils import exit_clicked
 
 def basic_view(controller):
 
-    # 动态变化的控件，文本框/dbserver的端口/server的端口
+    # 动态变化的控件
     text_area = FormattedTextControl(focusable=False, show_cursor=False)
     label_exe_port = Label(text="", style="fg:#000000")
 
