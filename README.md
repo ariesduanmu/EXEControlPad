@@ -6,4 +6,4 @@ for python 3.x
 
 `python main.py`
 
-I wish I did it in good MVC
+*I hope I did it in a good MVC way :)*
